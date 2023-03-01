@@ -65,7 +65,7 @@ a:active {
     text-transform: var(--section-tagline-transform);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
-    margin: var(--section-title-margin);
+    margin: var(--section-tagline-margin);
 }
 .navbar-menu {
     float: right;
